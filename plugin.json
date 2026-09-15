@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "id": "captcha",
+  "name": "captcha",
+  "icon": "public_html/captcha.png",
+  "requires": {
+    "geeklog": "1.8.0"
+  }
+}
